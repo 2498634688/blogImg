@@ -1,0 +1,19 @@
+{
+  "version": "3.0.0",
+  "pubDate": "2026-11-07T01:26:04Z",
+  "notes": "家时光 v3.0.0：六大生活模块、精致化界面、系统通知、服务端实时同步",
+  "app": {
+    "platform": "app",
+    "version": "3.0.0",
+    "file": "familytime-app-3.0.0.apk",
+    "url": "https://raw.githubusercontent.com/2498634688/blogImg/main/familytime/familytime-app-3.0.0.apk",
+    "sha256": "e97684fff8fa65649adc4ce6f85ad41d18fcf1ac2ee2b5c96fbac4677eaa99f3"
+  },
+  "desktop": {
+    "platform": "desktop",
+    "version": "0.1.0",
+    "file": "familytime-desktop-0.1.0.exe",
+    "url": "https://raw.githubusercontent.com/2498634688/blogImg/main/familytime/familytime-desktop-0.1.0.exe",
+    "sha256": "019edfcccee312963d43e79ea7ef78a45703a9c91d00e90143af2cfd9c45f0d3"
+  }
+}
